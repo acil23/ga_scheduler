@@ -1,0 +1,174 @@
+class_id,kode_mk,nama_mk,sks,sks_asli,dosen,dosen_priority,jumlah_mhs,semester,parallel,is_split
+16,COM60011,Arsitektur dan Organisasi Komputer,2,2,Rakhmadhany Primananda,1,40,1,C,False
+42,COM60011,Arsitektur dan Organisasi Komputer,2,2,Rakhmadhany Primananda,1,40,1,A,False
+45,COM60011,Arsitektur dan Organisasi Komputer,2,2,Barlian Henryranu Prasetio,1,40,1,F,False
+56,COM60011,Arsitektur dan Organisasi Komputer,2,2,Wijaya Kurniawan,1,40,1,G,False
+67,COM60011,Arsitektur dan Organisasi Komputer,2,2,Rakhmadhany Primananda,1,40,1,D,False
+90,COM60011,Arsitektur dan Organisasi Komputer,2,2,Barlian Henryranu Prasetio,1,40,1,E,False
+128,COM60011,Arsitektur dan Organisasi Komputer,2,2,Wijaya Kurniawan,1,40,1,B,False
+20,COM60025,Kalkulus,2,2,Muh. Arif Rahman,1,40,1,D,False
+24,COM60025,Kalkulus,2,2,Marji,1,40,1,C,False
+30,COM60025,Kalkulus,2,2,Wijaya Kurniawan,1,40,1,B,False
+76,COM60025,Kalkulus,2,2,Wijaya Kurniawan,1,40,1,F,False
+146,COM60025,Kalkulus,2,2,Edy Santoso,1,40,1,A,False
+151,COM60025,Kalkulus,2,2,Wijaya Kurniawan,1,40,1,E,False
+162,COM60025,Kalkulus,2,2,Edy Santoso,1,40,1,G,False
+1,COM60014,Pemrograman Dasar (Sesi 1),3,5,Achmad Ridok,1,40,1,A,True
+49,COM60014,Pemrograman Dasar (Sesi 1),3,5,Nurudin Santoso,1,40,1,F,True
+51,COM60014,Pemrograman Dasar (Sesi 1),3,5,Herman Tolle,1,40,1,G,True
+54,COM60014,Pemrograman Dasar (Sesi 1),3,5,Randy Cahya Wihandika,1,40,1,D,True
+100,COM60014,Pemrograman Dasar (Sesi 1),3,5,Nur Hazbiy Shaffan,1,40,1,B,True
+119,COM60014,Pemrograman Dasar (Sesi 1),3,5,Bayu Priyambadha,2,40,1,E,True
+156,COM60014,Pemrograman Dasar (Sesi 1),3,5,Randy Cahya Wihandika,1,40,1,C,True
+2,COM60014,Pemrograman Dasar (Sesi 2),2,5,Achmad Ridok,1,40,1,A,True
+50,COM60014,Pemrograman Dasar (Sesi 2),2,5,Nurudin Santoso,1,40,1,F,True
+52,COM60014,Pemrograman Dasar (Sesi 2),2,5,Herman Tolle,1,40,1,G,True
+55,COM60014,Pemrograman Dasar (Sesi 2),2,5,Randy Cahya Wihandika,1,40,1,D,True
+101,COM60014,Pemrograman Dasar (Sesi 2),2,5,Nur Hazbiy Shaffan,1,40,1,B,True
+120,COM60014,Pemrograman Dasar (Sesi 2),2,5,Bayu Priyambadha,2,40,1,E,True
+157,COM60014,Pemrograman Dasar (Sesi 2),2,5,Randy Cahya Wihandika,1,40,1,C,True
+33,COM60016,Pengenalan Keilmuan Komputer,2,2,Ratih Kartika Dewi,1,40,1,D,False
+37,COM60016,Pengenalan Keilmuan Komputer,2,2,Ratih Kartika Dewi,1,40,1,C,False
+71,COM60016,Pengenalan Keilmuan Komputer,2,2,Dany Primanita Kartikasari,1,40,1,F,False
+80,COM60016,Pengenalan Keilmuan Komputer,2,2,Sabriansyah Rizqika Akbar,1,40,1,B,False
+97,COM60016,Pengenalan Keilmuan Komputer,2,2,Edy Santoso,1,40,1,A,False
+104,COM60016,Pengenalan Keilmuan Komputer,2,2,Arief Andy Soebroto,1,40,1,E,False
+170,COM60016,Pengenalan Keilmuan Komputer,2,2,Rizal Maulana,2,40,1,G,False
+35,CIF61101,Rekayasa Perangkat Lunak (Sesi 1),2,4,Denny Sagita Rusdianto,1,40,1,E,True
+69,CIF61101,Rekayasa Perangkat Lunak (Sesi 1),2,4,Nurudin Santoso,1,40,1,D,True
+95,CIF61101,Rekayasa Perangkat Lunak (Sesi 1),2,4,Bayu Priyambadha,1,40,1,F,True
+112,CIF61101,Rekayasa Perangkat Lunak (Sesi 1),2,4,Bayu Priyambadha,1,40,1,B,True
+136,CIF61101,Rekayasa Perangkat Lunak (Sesi 1),2,4,Eko Sakti Pramukantoro,1,40,1,A,True
+168,CIF61101,Rekayasa Perangkat Lunak (Sesi 1),2,4,Bayu Priyambadha,1,40,1,G,True
+171,CIF61101,Rekayasa Perangkat Lunak (Sesi 1),2,4,Adam Hendra Brata,1,40,1,C,True
+36,CIF61101,Rekayasa Perangkat Lunak (Sesi 2),2,4,Denny Sagita Rusdianto,1,40,1,E,True
+70,CIF61101,Rekayasa Perangkat Lunak (Sesi 2),2,4,Nurudin Santoso,1,40,1,D,True
+96,CIF61101,Rekayasa Perangkat Lunak (Sesi 2),2,4,Bayu Priyambadha,1,40,1,F,True
+113,CIF61101,Rekayasa Perangkat Lunak (Sesi 2),2,4,Bayu Priyambadha,1,40,1,B,True
+137,CIF61101,Rekayasa Perangkat Lunak (Sesi 2),2,4,Eko Sakti Pramukantoro,1,40,1,A,True
+169,CIF61101,Rekayasa Perangkat Lunak (Sesi 2),2,4,Bayu Priyambadha,1,40,1,G,True
+172,CIF61101,Rekayasa Perangkat Lunak (Sesi 2),2,4,Adam Hendra Brata,1,40,1,C,True
+8,CIF61302,Statistika dan Teori Peluang,2,2,Wijaya Kurniawan,1,40,1,C,False
+9,CIF61302,Statistika dan Teori Peluang,2,2,Ratih Kartika Dewi,1,40,1,G,False
+14,CIF61302,Statistika dan Teori Peluang,2,2,Ratih Kartika Dewi,1,40,1,A,False
+34,CIF61302,Statistika dan Teori Peluang,2,2,Wijaya Kurniawan,1,40,1,B,False
+38,CIF61302,Statistika dan Teori Peluang,2,2,Ratih Kartika Dewi,1,40,1,F,False
+99,CIF61302,Statistika dan Teori Peluang,2,2,Marji,1,40,1,D,False
+142,CIF61302,Statistika dan Teori Peluang,2,2,Achmad Basuki,2,40,1,E,False
+3,COM60004,Algoritma dan Struktur Data,3,3,Budi Darma Setiawan,1,40,3,F,False
+5,COM60004,Algoritma dan Struktur Data,3,3,Agung Setia Budi,1,40,3,B,False
+27,COM60004,Algoritma dan Struktur Data,3,3,Agung Setia Budi,1,40,3,C,False
+83,COM60004,Algoritma dan Struktur Data,3,3,Edy Santoso,1,40,3,A,False
+85,COM60004,Algoritma dan Struktur Data,3,3,Edy Santoso,1,40,3,D,False
+122,COM60004,Algoritma dan Struktur Data,3,3,Fitra Abdurrachman Bachtiar,1,40,3,G,False
+134,COM60004,Algoritma dan Struktur Data,3,3,Fitra Abdurrachman Bachtiar,1,40,3,E,False
+47,CIF63106,Analisis dan Perancangan Sistem (Sesi 1),3,5,Eko Sakti Pramukantoro,1,40,3,E,True
+60,CIF63106,Analisis dan Perancangan Sistem (Sesi 1),3,5,Lutfi Fanani,1,40,3,A,True
+102,CIF63106,Analisis dan Perancangan Sistem (Sesi 1),3,5,Denny Sagita Rusdianto,1,40,3,D,True
+107,CIF63106,Analisis dan Perancangan Sistem (Sesi 1),3,5,Komang Candra Brata,1,40,3,G,True
+126,CIF63106,Analisis dan Perancangan Sistem (Sesi 1),3,5,Lutfi Fanani,1,40,3,F,True
+138,CIF63106,Analisis dan Perancangan Sistem (Sesi 1),3,5,Denny Sagita Rusdianto,1,40,3,C,True
+148,CIF63106,Analisis dan Perancangan Sistem (Sesi 1),3,5,Nurudin Santoso,1,40,3,B,True
+48,CIF63106,Analisis dan Perancangan Sistem (Sesi 2),2,5,Eko Sakti Pramukantoro,1,40,3,E,True
+61,CIF63106,Analisis dan Perancangan Sistem (Sesi 2),2,5,Lutfi Fanani,1,40,3,A,True
+103,CIF63106,Analisis dan Perancangan Sistem (Sesi 2),2,5,Denny Sagita Rusdianto,1,40,3,D,True
+108,CIF63106,Analisis dan Perancangan Sistem (Sesi 2),2,5,Komang Candra Brata,1,40,3,G,True
+127,CIF63106,Analisis dan Perancangan Sistem (Sesi 2),2,5,Lutfi Fanani,1,40,3,F,True
+139,CIF63106,Analisis dan Perancangan Sistem (Sesi 2),2,5,Denny Sagita Rusdianto,1,40,3,C,True
+149,CIF63106,Analisis dan Perancangan Sistem (Sesi 2),2,5,Nurudin Santoso,1,40,3,B,True
+13,CIF63108,Interaksi Manusia dan Komputer,2,2,Herman Tolle,1,40,3,G,False
+46,CIF63108,Interaksi Manusia dan Komputer,2,2,Lutfi Fanani,1,40,3,E,False
+62,CIF63108,Interaksi Manusia dan Komputer,2,2,Komang Candra Brata,1,40,3,A,False
+73,CIF63108,Interaksi Manusia dan Komputer,2,2,Adam Hendra Brata,1,40,3,D,False
+132,CIF63108,Interaksi Manusia dan Komputer,2,2,Denny Sagita Rusdianto,1,40,3,C,False
+144,CIF63108,Interaksi Manusia dan Komputer,2,2,Adam Hendra Brata,1,40,3,B,False
+145,CIF63108,Interaksi Manusia dan Komputer,2,2,Lutfi Fanani,1,40,3,F,False
+88,CIF63207,Jaringan Komputer (Sesi 1),3,5,Primantara Hari Trisnawan,1,40,3,D,True
+105,CIF63207,Jaringan Komputer (Sesi 1),3,5,Reza Andria Siregar,1,40,3,F,True
+124,CIF63207,Jaringan Komputer (Sesi 1),3,5,Reza Andria Siregar,1,40,3,E,True
+130,CIF63207,Jaringan Komputer (Sesi 1),3,5,Sabriansyah Rizqika Akbar,1,40,3,A,True
+140,CIF63207,Jaringan Komputer (Sesi 1),3,5,Sabriansyah Rizqika Akbar,1,40,3,G,True
+153,CIF63207,Jaringan Komputer (Sesi 1),3,5,Achmad Basuki,1,40,3,B,True
+159,CIF63207,Jaringan Komputer (Sesi 1),3,5,Reza Andria Siregar,1,40,3,C,True
+89,CIF63207,Jaringan Komputer (Sesi 2),2,5,Primantara Hari Trisnawan,1,40,3,D,True
+106,CIF63207,Jaringan Komputer (Sesi 2),2,5,Reza Andria Siregar,1,40,3,F,True
+125,CIF63207,Jaringan Komputer (Sesi 2),2,5,Reza Andria Siregar,1,40,3,E,True
+131,CIF63207,Jaringan Komputer (Sesi 2),2,5,Sabriansyah Rizqika Akbar,1,40,3,A,True
+141,CIF63207,Jaringan Komputer (Sesi 2),2,5,Sabriansyah Rizqika Akbar,1,40,3,G,True
+154,CIF63207,Jaringan Komputer (Sesi 2),2,5,Achmad Basuki,1,40,3,B,True
+160,CIF63207,Jaringan Komputer (Sesi 2),2,5,Reza Andria Siregar,1,40,3,C,True
+0,CIF63110,Kecerdasan Artifisial,2,2,Rizal Setya Perdana,1,40,3,D,False
+28,CIF63110,Kecerdasan Artifisial,2,2,Wayan Firdaus Mahmudy,1,40,3,B,False
+53,CIF63110,Kecerdasan Artifisial,2,2,Arief Andy Soebroto,1,40,3,E,False
+65,CIF63110,Kecerdasan Artifisial,2,2,Wayan Firdaus Mahmudy,1,40,3,F,False
+79,CIF63110,Kecerdasan Artifisial,2,2,Edy Santoso,1,40,3,A,False
+129,CIF63110,Kecerdasan Artifisial,2,2,Arief Andy Soebroto,1,40,3,G,False
+152,CIF63110,Kecerdasan Artifisial,2,2,Arief Andy Soebroto,1,40,3,C,False
+11,CIF63309,Metode Numerik,3,3,Muh. Arif Rahman,1,40,3,G,False
+15,CIF63309,Metode Numerik,3,3,Agung Setia Budi,1,40,3,A,False
+17,CIF63309,Metode Numerik,3,3,Eko Sakti Pramukantoro,1,40,3,B,False
+25,CIF63309,Metode Numerik,3,3,Muh. Arif Rahman,1,40,3,C,False
+93,CIF63309,Metode Numerik,3,3,Achmad Ridok,1,40,3,E,False
+98,CIF63309,Metode Numerik,3,3,Achmad Ridok,1,40,3,D,False
+109,CIF63309,Metode Numerik,3,3,Wayan Firdaus Mahmudy,2,40,3,F,False
+10,CIF65217,Jaringan Nirkabel,3,3,Dany Primanita Kartikasari,1,40,5,B,False
+12,CIF65217,Jaringan Nirkabel,3,3,Eko Sakti Pramukantoro,1,40,5,E,False
+40,CIF65217,Jaringan Nirkabel,3,3,Widhi Yahya,1,40,5,D,False
+66,CIF65217,Jaringan Nirkabel,3,3,Dany Primanita Kartikasari,1,40,5,F,False
+117,CIF65217,Jaringan Nirkabel,3,3,Widhi Yahya,1,40,5,A,False
+123,CIF65217,Jaringan Nirkabel,3,3,Primantara Hari Trisnawan,1,40,5,C,False
+158,CIF65217,Jaringan Nirkabel,3,3,Primantara Hari Trisnawan,1,40,5,G,False
+4,CIF65318,Jaringan Saraf Tiruan,3,3,Agung Setia Budi,1,40,5,A,False
+31,CIF65318,Jaringan Saraf Tiruan,3,3,Wayan Firdaus Mahmudy,1,40,5,C,False
+39,CIF65318,Jaringan Saraf Tiruan,3,3,Budi Darma Setiawan,1,40,5,G,False
+63,CIF65318,Jaringan Saraf Tiruan,3,3,Randy Cahya Wihandika,1,40,5,B,False
+110,CIF65318,Jaringan Saraf Tiruan,3,3,Randy Cahya Wihandika,1,40,5,F,False
+115,CIF65318,Jaringan Saraf Tiruan,3,3,Budi Darma Setiawan,1,40,5,E,False
+166,CIF65318,Jaringan Saraf Tiruan,3,3,Wayan Firdaus Mahmudy,1,40,5,D,False
+26,CIF65116,Komputer Grafis,2,2,Herman Tolle,1,40,5,B,False
+29,CIF65116,Komputer Grafis,2,2,Herman Tolle,1,40,5,C,False
+72,CIF65116,Komputer Grafis,2,2,Herman Tolle,1,40,5,D,False
+77,CIF65116,Komputer Grafis,2,2,Herman Tolle,1,40,5,A,False
+82,CIF65116,Komputer Grafis,2,2,Herman Tolle,1,40,5,E,False
+94,CIF65116,Komputer Grafis,2,2,Herman Tolle,1,40,5,F,False
+143,CIF65116,Komputer Grafis,2,2,Herman Tolle,1,40,5,G,False
+21,COM60051,Metodologi Penelitian & Penulisan Ilmiah,3,3,Widhi Yahya,1,40,5,C,False
+81,COM60051,Metodologi Penelitian & Penulisan Ilmiah,3,3,Achmad Basuki,1,40,5,E,False
+116,COM60051,Metodologi Penelitian & Penulisan Ilmiah,3,3,Arief Andy Soebroto,1,40,5,B,False
+118,COM60051,Metodologi Penelitian & Penulisan Ilmiah,3,3,Fitra Abdurrachman Bachtiar,1,40,5,A,False
+135,COM60051,Metodologi Penelitian & Penulisan Ilmiah,3,3,Achmad Basuki,1,40,5,G,False
+155,COM60051,Metodologi Penelitian & Penulisan Ilmiah,3,3,Arief Andy Soebroto,1,40,5,D,False
+165,COM60051,Metodologi Penelitian & Penulisan Ilmiah,3,3,Widhi Yahya,1,40,5,F,False
+57,CIF65115,Pemrograman Aplikasi Perangkat Bergerak,3,3,Adam Hendra Brata,1,40,5,D,False
+64,CIF65115,Pemrograman Aplikasi Perangkat Bergerak,3,3,Komang Candra Brata,1,40,5,A,False
+75,CIF65115,Pemrograman Aplikasi Perangkat Bergerak,3,3,Nur Hazbiy Shaffan,1,40,5,G,False
+78,CIF65115,Pemrograman Aplikasi Perangkat Bergerak,3,3,Nur Hazbiy Shaffan,1,40,5,B,False
+114,CIF65115,Pemrograman Aplikasi Perangkat Bergerak,3,3,Komang Candra Brata,1,40,5,E,False
+150,CIF65115,Pemrograman Aplikasi Perangkat Bergerak,3,3,Nur Hazbiy Shaffan,1,40,5,F,False
+167,CIF65115,Pemrograman Aplikasi Perangkat Bergerak,3,3,Komang Candra Brata,1,40,5,C,False
+41,CIF65319,Statistika inferensi,2,2,Marji,1,40,5,D,False
+43,CIF65319,Statistika inferensi,2,2,Marji,1,40,5,A,False
+68,CIF65319,Statistika inferensi,2,2,Marji,1,40,5,E,False
+111,CIF65319,Statistika inferensi,2,2,Marji,1,40,5,F,False
+147,CIF65319,Statistika inferensi,2,2,Marji,1,40,5,C,False
+163,CIF65319,Statistika inferensi,2,2,Marji,1,40,5,G,False
+164,CIF65319,Statistika inferensi,2,2,Marji,1,40,5,B,False
+58,CIF61233,Administrasi sistem server,3,3,Widhi Yahya,1,40,Pilihan,A,False
+6,CIF61124,Arsitektur Berbasis Layanan (Sesi 1),2,4,Adam Hendra Brata,1,40,Pilihan,A,True
+7,CIF61124,Arsitektur Berbasis Layanan (Sesi 2),2,4,Adam Hendra Brata,1,40,Pilihan,A,True
+121,CIF61346,Deep Learning,3,3,Fitra Abdurrachman Bachtiar,1,40,Pilihan,A,False
+86,CIF60038,DevSecOps (Sesi 1),2,4,Dany Primanita Kartikasari,1,40,Pilihan,A,True
+87,CIF60038,DevSecOps (Sesi 2),2,4,Dany Primanita Kartikasari,1,40,Pilihan,A,True
+133,CIF61235,Forensik Digital,3,3,Ratih Kartika Dewi,1,40,Pilihan,A,False
+74,CIF61230,Jaringan komputer lanjut,3,3,Primantara Hari Trisnawan,1,40,Pilihan,A,False
+161,CIF61236,Keamanan Jaringan,3,3,Dany Primanita Kartikasari,1,40,Pilihan,A,False
+91,CIF60048,Machine Learning Operations (MLOps) (Sesi 1),2,4,Yuita Arum Sari,1,40,Pilihan,A,True
+92,CIF60048,Machine Learning Operations (MLOps) (Sesi 2),2,4,Yuita Arum Sari,1,40,Pilihan,A,True
+18,CIF61125,Pemrograman Gim (Sesi 1),2,4,Agi Putra Kharisma,2,40,Pilihan,A,True
+19,CIF61125,Pemrograman Gim (Sesi 2),2,4,Agi Putra Kharisma,2,40,Pilihan,A,True
+44,CIF61341,Pemrosesan Bahasa Alami,3,3,Rizal Setya Perdana,1,40,Pilihan,A,False
+32,CIF61347,Penerapan Kecerdasan Artifisial,3,3,Budi Darma Setiawan,1,40,Pilihan,A,False
+22,CIF61339,Pengolahan Citra Digital dan Visi Komputer (Sesi 1),2,4,Muh. Arif Rahman,1,40,Pilihan,A,True
+23,CIF61339,Pengolahan Citra Digital dan Visi Komputer (Sesi 2),2,4,Muh. Arif Rahman,1,40,Pilihan,A,True
+84,CIF61121,Pola Perancangan,3,3,Nurudin Santoso,1,40,Pilihan,A,False
+59,CIF61126,Realitas terkembang,3,3,Adam Hendra Brata,1,40,Pilihan,A,False

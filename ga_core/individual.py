@@ -23,14 +23,14 @@ class Individual:
                 "slot_id": random_slot["slot_id"],
                 "room_id": random_room["room_id"],
                 
-                # --- DATA PENTING UNTUK FITNESS & EXPORT (Salin semua) ---
-                "kode_mk": kelas["kode_mk"],        # <--- INI YANG TADI HILANG
+                # --- DATA PENTING UNTUK FITNESS & EXPORT ---
+                "kode_mk": kelas["kode_mk"],        
                 "nama_mk": kelas["nama_mk"],
                 "sks": kelas["sks"],
                 "dosen": kelas["dosen"],
                 "jumlah_mhs": kelas["jumlah_mhs"],
                 "semester": kelas.get("semester", 0),
-                "parallel": kelas.get("parallel", "-"), # Info Kelas A/B/C
+                "parallel": kelas.get("parallel", "-"),
                 "dosen_priority": kelas.get("dosen_priority", 99)
             }
             self.chromosome.append(gene)

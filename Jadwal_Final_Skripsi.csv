@@ -1,155 +1,174 @@
-ID Kelas,Kode MK,Mata Kuliah,Dosen,SKS,Kelas,Hari,Jam Mulai,Jam Selesai,Ruangan,Kapasitas Ruang,Jumlah Mhs,Prioritas Dosen
-107,CIF65115,Pemrograman Aplikasi Perangkat Bergerak - C,Agi Putra Kharisma,3,-,senin,07:00:00,09:30:00,F2.5,40,40,99
-121,CIF65217,Jaringan Nirkabel - C,Primantara Hari Trisnawan,3,-,senin,07:00:00,09:30:00,F3.13,40,40,1
-138,CIF65319,Statistika inferensi - F,Candra Dewi,2,-,senin,07:00:00,08:40:00,F3.3,40,40,99
-46,CIF61302,Statistika dan Teori Peluang - E,Rekyan Regasari Mardi Putri,2,-,senin,07:00:00,09:30:00,F3.5,40,40,99
-91,COM60051,Metodologi Penelitian & Penulisan Ilmiah - A,"Prof. Dr. Ir. LAILIL MUFLIKHAH, S.Kom., M.Sc.",3,-,senin,07:00:00,09:30:00,F4.8,40,40,99
-62,CIF63106,Analisis dan Perancangan Sistem - G,Nurudin Santoso,5,-,senin,08:45:00,10:25:00,F4.1,40,40,1
-104,MPK60007,Bahasa Indonesia - G,Unknown Dosen,2,-,senin,08:45:00,11:15:00,F4.2,40,40,99
-35,MPK60001-5,Agama - A,Unknown Dosen,2,-,senin,08:45:00,11:15:00,F4.6,40,40,99
-102,MPK60007,Bahasa Indonesia - E,Unknown Dosen,2,-,senin,09:35:00,12:05:00,F3.11,40,40,99
-87,CIF63110,Kecerdasan Artifisial - D,Rizal Setya Perdana,2,-,senin,09:35:00,12:05:00,F3.12,40,40,1
-90,CIF63110,Kecerdasan Artifisial - G,Arief Andy Soebroto,2,-,senin,09:35:00,11:20:00,F3.2,40,40,1
-71,CIF63108,Interaksi Manusia dan Komputer - B,Herman Tolle,2,-,senin,09:35:00,11:20:00,F3.3,40,40,1
-106,CIF65115,Pemrograman Aplikasi Perangkat Bergerak - B,Adam Hendra Brata,3,-,senin,09:35:00,11:20:00,F4.9,40,40,1
-37,MPK60001-5,Agama - C,Unknown Dosen,2,-,senin,10:30:00,12:10:00,F3.5,40,40,99
-82,CIF63309,Metode Numerik - F,Muh. Arif Rahman,3,-,senin,10:30:00,12:10:00,F4.13,40,40,1
-54,COM60004,Algoritma dan Struktur Data - F,Budi Darma Setiawan,3,-,senin,12:30:00,15:00:00,F2.8,40,40,1
-153,CIF61126,Realitas terkembang - A,Herman Tolle,3,-,senin,12:30:00,14:10:00,F3.16,40,40,1
-120,CIF65217,Jaringan Nirkabel - B,Eko Sakti Pramukantoro,3,-,senin,12:30:00,14:10:00,F4.11,40,40,1
-18,COM60011,Arsitektur dan Organisasi Komputer - E,Dany Primanita Kartikasari,2,-,senin,12:30:00,14:10:00,F4.8,40,40,1
-93,COM60051,Metodologi Penelitian & Penulisan Ilmiah - C,Prof Eng Fitri Utaminingrum St Mt,3,-,senin,12:30:00,14:10:00,F4.9,40,40,99
-4,COM60016,Pengenalan Keilmuan Komputer - E,Achmad Basuki,2,-,senin,14:15:00,15:55:00,F3.12,40,40,1
-88,CIF63110,Kecerdasan Artifisial - E,"Prof. Dr. Ir. LAILIL MUFLIKHAH, S.Kom., M.Sc.",2,-,senin,14:30:00,16:10:00,F3.16,40,40,99
-127,CIF65318,Jaringan Saraf Tiruan - B,Candra Dewi,3,-,senin,14:30:00,16:10:00,F3.3,40,40,99
-79,CIF63309,Metode Numerik - C,Indriati,3,-,senin,14:30:00,16:10:00,F4.1,40,40,99
-96,COM60051,Metodologi Penelitian & Penulisan Ilmiah - F,Novanto Yudistira,3,-,senin,14:30:00,16:10:00,F4.10,40,40,99
-133,CIF65319,Statistika inferensi - A,Achmad Ridok,2,-,senin,15:20:00,17:00:00,F2.6,40,40,99
-101,MPK60007,Bahasa Indonesia - D,Unknown Dosen,2,-,senin,15:20:00,17:00:00,F3.13,40,40,99
-50,COM60004,Algoritma dan Struktur Data - B,Mahendra Data,3,-,senin,15:20:00,17:50:00,F3.5,40,40,99
-92,COM60051,Metodologi Penelitian & Penulisan Ilmiah - B,Arief Andy Soebroto,3,-,senin,15:20:00,17:00:00,F3.6,40,40,1
-112,CIF65116,Komputer Grafis - A,Herman Tolle,2,-,senin,15:20:00,17:50:00,F4.8,40,40,1
-99,MPK60007,Bahasa Indonesia - B,Unknown Dosen,2,-,senin,16:00:00,17:40:00,F2.9,40,40,99
-124,CIF65217,Jaringan Nirkabel - F,Dany Primanita Kartikasari,3,-,senin,16:00:00,17:40:00,F3.10,40,40,1
-125,CIF65217,Jaringan Nirkabel - G,Eko Sakti Pramukantoro,3,-,senin,16:00:00,17:40:00,F4.11,40,40,1
-19,COM60011,Arsitektur dan Organisasi Komputer - F,Heru Nurwarsito,2,-,senin,16:00:00,17:40:00,F4.12,40,40,99
-85,CIF63110,Kecerdasan Artifisial - B,Arief Andy Soebroto,2,-,selasa,07:00:00,09:30:00,F2.1,40,40,1
-100,MPK60007,Bahasa Indonesia - C,Unknown Dosen,2,-,selasa,07:00:00,09:30:00,F2.4,40,40,99
-43,CIF61302,Statistika dan Teori Peluang - B,Yuita Arum Sari,2,-,selasa,07:00:00,08:40:00,F3.13,40,40,99
-73,CIF63108,Interaksi Manusia dan Komputer - D,Mahardeka Tri Ananta,2,-,selasa,07:00:00,09:30:00,F3.3,40,40,99
-135,CIF65319,Statistika inferensi - C,Marji,2,-,selasa,07:00:00,09:30:00,F3.7,40,40,1
-22,CIF61101,Rekayasa Perangkat Lunak - B,Tri Astoto Kurniawan,4,-,selasa,07:00:00,08:40:00,F4.10,40,40,99
-118,CIF65116,Komputer Grafis - G,Herman Tolle,2,-,selasa,07:00:00,08:40:00,F4.11,40,40,1
-119,CIF65217,Jaringan Nirkabel - A,Dany Primanita Kartikasari,3,-,selasa,08:45:00,11:15:00,F3.15,40,40,1
-146,CIF61236,Keamanan Jaringan - A,Eko Sakti Pramukantoro,3,-,selasa,08:45:00,11:15:00,F3.8,40,40,1
-70,CIF63108,Interaksi Manusia dan Komputer - A,Agi Putra Kharisma,2,-,selasa,09:35:00,12:05:00,F2.2,40,40,99
-34,COM60025,Kalkulus - G,Achmad Arwan,2,-,selasa,09:35:00,11:20:00,F2.8,40,40,99
-115,CIF65116,Komputer Grafis - D,Herman Tolle,2,-,selasa,09:35:00,11:20:00,F3.3,40,40,1
-33,COM60025,Kalkulus - F,"Prof. Dr. Ir. LAILIL MUFLIKHAH, S.Kom., M.Sc.",2,-,selasa,09:35:00,12:05:00,F4.12,40,40,99
-58,CIF63106,Analisis dan Perancangan Sistem - C,Adam Hendra Brata,5,-,selasa,09:35:00,11:20:00,F4.3,40,40,1
-67,CIF63207,Jaringan Komputer - E,Kasyful Amron,5,-,selasa,09:35:00,12:05:00,F4.9,40,40,99
-8,COM60014,Pemrograman Dasar - B,Indriati,5,-,selasa,10:30:00,12:10:00,F3.6,40,40,99
-51,COM60004,Algoritma dan Struktur Data - C,Achmad Ridok,3,-,selasa,12:30:00,14:10:00,F3.2,40,40,1
-89,CIF63110,Kecerdasan Artifisial - F,Yuita Arum Sari,2,-,selasa,12:30:00,14:10:00,F4.10,40,40,99
-60,CIF63106,Analisis dan Perancangan Sistem - E,Tri Astoto Kurniawan,5,-,selasa,12:30:00,14:10:00,F4.5,40,40,99
-0,COM60016,Pengenalan Keilmuan Komputer - A,Irawati Nurmala Sari,2,-,selasa,14:15:00,15:55:00,F2.1,40,40,99
-142,CIF61346,Deep Learning - A,Novanto Yudistira,3,-,selasa,14:15:00,15:55:00,F2.6,40,40,99
-132,CIF65318,Jaringan Saraf Tiruan - G,Candra Dewi,3,-,selasa,14:15:00,15:55:00,F3.12,40,40,99
-130,CIF65318,Jaringan Saraf Tiruan - E,Putra Pandu Adikara,3,-,selasa,14:15:00,15:55:00,F3.2,40,40,99
-109,CIF65115,Pemrograman Aplikasi Perangkat Bergerak - E,Fais Al Huda,3,-,selasa,14:15:00,15:55:00,F3.5,40,40,99
-136,CIF65319,Statistika inferensi - D,Rekyan Regasari Mardi Putri,2,-,selasa,14:30:00,16:10:00,F3.3,40,40,99
-30,COM60025,Kalkulus - C,Marji,2,-,selasa,15:20:00,17:50:00,F3.4,40,40,1
-78,CIF63309,Metode Numerik - B,Achmad Ridok,3,-,selasa,16:00:00,17:40:00,F3.1,40,40,1
-80,CIF63309,Metode Numerik - D,Edy Santoso,3,-,rabu,07:00:00,08:40:00,F2.5,40,40,99
-20,COM60011,Arsitektur dan Organisasi Komputer - G,Nur Hazbiy Shaffan,2,-,rabu,07:00:00,09:30:00,F2.6,40,40,99
-103,MPK60007,Bahasa Indonesia - F,Unknown Dosen,2,-,rabu,07:00:00,09:30:00,F3.11,40,40,99
-128,CIF65318,Jaringan Saraf Tiruan - C,Marji,3,-,rabu,07:00:00,08:40:00,F3.5,40,40,1
-12,COM60014,Pemrograman Dasar - F,Herman Tolle,5,-,rabu,07:00:00,08:40:00,F4.12,40,40,1
-84,CIF63110,Kecerdasan Artifisial - A,Yuita Arum Sari,2,-,rabu,07:00:00,08:40:00,F4.4,40,40,99
-13,COM60014,Pemrograman Dasar - G,Indriati,5,-,rabu,08:45:00,10:25:00,F2.2,40,40,99
-29,COM60025,Kalkulus - B,Edy Santoso,2,-,rabu,08:45:00,11:15:00,F2.9,40,40,1
-122,CIF65217,Jaringan Nirkabel - D,Kasyful Amron,3,-,rabu,08:45:00,10:25:00,F3.13,40,40,99
-105,CIF65115,Pemrograman Aplikasi Perangkat Bergerak - A,Fais Al Huda,3,-,rabu,08:45:00,10:25:00,F3.3,40,40,99
-23,CIF61101,Rekayasa Perangkat Lunak - C,Achmad Arwan,4,-,rabu,08:45:00,11:15:00,F3.5,40,40,99
-151,CIF61339,Pengolahan Citra Digital dan Visi Komputer - A,Muh. Arif Rahman,4,-,rabu,08:45:00,10:25:00,F3.8,40,40,1
-66,CIF63207,Jaringan Komputer - D,Widhi Yahya,5,-,rabu,08:45:00,11:15:00,F4.14,40,40,1
-148,CIF61125,Pemrograman Gim - A,Agi Putra Kharisma,4,-,rabu,09:35:00,11:20:00,F3.10,40,40,2
-49,COM60004,Algoritma dan Struktur Data - A,Putra Pandu Adikara,3,-,rabu,09:35:00,12:05:00,F3.11,40,40,99
-24,CIF61101,Rekayasa Perangkat Lunak - D,Nurudin Santoso,4,-,rabu,09:35:00,11:20:00,F3.9,40,40,1
-57,CIF63106,Analisis dan Perancangan Sistem - B,Bayu Priyambadha,5,-,rabu,09:35:00,11:20:00,F4.2,40,40,99
-59,CIF63106,Analisis dan Perancangan Sistem - D,Mahardeka Tri Ananta,5,-,rabu,09:35:00,11:20:00,F4.3,40,40,99
-5,COM60016,Pengenalan Keilmuan Komputer - F,Arief Andy Soebroto,2,-,rabu,10:30:00,12:10:00,F2.1,40,40,1
-108,CIF65115,Pemrograman Aplikasi Perangkat Bergerak - D,Herman Tolle,3,-,rabu,10:30:00,12:10:00,F3.1,40,40,1
-149,CIF61341,Pemrosesan Bahasa Alami - A,Rizal Setya Perdana,3,-,rabu,10:30:00,12:10:00,F3.13,40,40,1
-38,MPK60001-5,Agama - D,Unknown Dosen,2,-,rabu,10:30:00,12:10:00,F4.6,40,40,99
-74,CIF63108,Interaksi Manusia dan Komputer - E,Agi Putra Kharisma,2,-,rabu,12:30:00,14:10:00,F3.11,40,40,99
-140,CIF61233,Administrasi sistem server - A,Eko Sakti Pramukantoro,3,-,rabu,12:30:00,14:10:00,F3.12,40,40,1
-123,CIF65217,Jaringan Nirkabel - E,Widhi Yahya,3,-,rabu,12:30:00,15:00:00,F3.9,40,40,1
-11,COM60014,Pemrograman Dasar - E,Agus Wahyu Widodo,5,-,rabu,12:30:00,14:10:00,F4.8,40,40,99
-61,CIF63106,Analisis dan Perancangan Sistem - F,Achmad Arwan,5,-,rabu,14:15:00,15:55:00,F4.9,40,40,99
-114,CIF65116,Komputer Grafis - C,Fais Al Huda,2,-,rabu,14:30:00,16:10:00,F3.15,40,40,99
-77,CIF63309,Metode Numerik - A,Muh. Arif Rahman,3,-,rabu,14:30:00,16:10:00,F3.4,40,40,1
-55,COM60004,Algoritma dan Struktur Data - G,Putra Pandu Adikara,3,-,rabu,14:30:00,16:10:00,F4.1,40,40,99
-6,COM60016,Pengenalan Keilmuan Komputer - G,Irawati Nurmala Sari,2,-,rabu,15:20:00,17:50:00,F3.11,40,40,99
-126,CIF65318,Jaringan Saraf Tiruan - A,Budi Darma Setiawan,3,-,rabu,15:20:00,17:50:00,F3.8,40,40,1
-141,CIF61124,Arsitektur Berbasis Layanan - A,Nurudin Santoso,4,-,rabu,15:20:00,17:50:00,F4.10,40,40,1
-68,CIF63207,Jaringan Komputer - F,Reza Andria Siregar,5,-,rabu,15:20:00,17:00:00,F4.13,40,40,1
-48,CIF61302,Statistika dan Teori Peluang - G,Sigit Adinugroho,2,-,rabu,15:20:00,17:50:00,F4.8,40,40,99
-7,COM60014,Pemrograman Dasar - A,Herman Tolle,5,-,rabu,16:00:00,17:40:00,F3.10,40,40,1
-81,CIF63309,Metode Numerik - E,Diva Kurnianingtyas,3,-,rabu,16:00:00,17:40:00,F3.6,40,40,99
-45,CIF61302,Statistika dan Teori Peluang - D,Ari Kusyanti,2,-,rabu,16:00:00,17:40:00,F4.5,40,40,99
-117,CIF65116,Komputer Grafis - F,Fais Al Huda,2,-,kamis,07:00:00,08:40:00,F2.1,40,40,99
-113,CIF65116,Komputer Grafis - B,Agi Putra Kharisma,2,-,kamis,07:00:00,09:30:00,F3.11,40,40,99
-94,COM60051,Metodologi Penelitian & Penulisan Ilmiah - D,Candra Dewi,3,-,kamis,07:00:00,09:30:00,F3.14,40,40,99
-3,COM60016,Pengenalan Keilmuan Komputer - D,Herman Tolle,2,-,kamis,08:45:00,11:15:00,F2.2,40,40,1
-139,CIF65319,Statistika inferensi - G,Achmad Ridok,2,-,kamis,08:45:00,10:25:00,F3.13,40,40,99
-86,CIF63110,Kecerdasan Artifisial - C,Agus Wahyu Widodo,2,-,kamis,08:45:00,10:25:00,F4.12,40,40,99
-41,MPK60001-5,Agama - G,Unknown Dosen,2,-,kamis,09:35:00,12:05:00,F3.14,40,40,99
-36,MPK60001-5,Agama - B,Unknown Dosen,2,-,kamis,09:35:00,12:05:00,F4.10,40,40,99
-116,CIF65116,Komputer Grafis - E,Agi Putra Kharisma,2,-,kamis,10:30:00,12:10:00,F2.1,40,40,99
-32,COM60025,Kalkulus - E,Candra Dewi,2,-,kamis,10:30:00,12:10:00,F2.4,40,40,99
-129,CIF65318,Jaringan Saraf Tiruan - D,Novanto Yudistira,3,-,kamis,10:30:00,12:10:00,F3.12,40,40,99
-1,COM60016,Pengenalan Keilmuan Komputer - B,Sabriansyah Rizqika Akbar,2,-,kamis,10:30:00,12:10:00,F4.3,40,40,1
-17,COM60011,Arsitektur dan Organisasi Komputer - D,Agus Wahyu Widodo,2,-,kamis,12:30:00,15:00:00,F3.12,40,40,99
-31,COM60025,Kalkulus - D,Muh. Arif Rahman,2,-,kamis,12:30:00,15:00:00,F3.16,40,40,1
-76,CIF63108,Interaksi Manusia dan Komputer - G,Lutfi Fanani,2,-,kamis,12:30:00,14:10:00,F4.13,40,40,1
-25,CIF61101,Rekayasa Perangkat Lunak - E,Mahardeka Tri Ananta,4,-,kamis,12:30:00,14:10:00,F4.2,40,40,99
-144,CIF61235,Forensik Digital - A,Eko Sakti Pramukantoro,3,-,kamis,12:30:00,15:00:00,F4.3,40,40,1
-137,CIF65319,Statistika inferensi - E,Ari Kusyanti,2,-,kamis,12:30:00,14:10:00,F4.9,40,40,99
-147,CIF60048,Machine Learning Operations (MLOps) - A,Rizal Setya Perdana,4,-,kamis,14:15:00,15:55:00,F3.14,40,40,1
-40,MPK60001-5,Agama - F,Unknown Dosen,2,-,kamis,14:30:00,16:10:00,F3.2,40,40,99
-53,COM60004,Algoritma dan Struktur Data - E,Herman Tolle,3,-,kamis,14:30:00,16:10:00,F3.7,40,40,2
-47,CIF61302,Statistika dan Teori Peluang - F,Irawati Nurmala Sari,2,-,kamis,15:20:00,17:50:00,F3.4,40,40,99
-95,COM60051,Metodologi Penelitian & Penulisan Ilmiah - E,Tri Astoto Kurniawan,3,-,kamis,15:20:00,17:00:00,F3.6,40,40,99
-16,COM60011,Arsitektur dan Organisasi Komputer - C,Nur Hazbiy Shaffan,2,-,kamis,15:20:00,17:00:00,F4.9,40,40,99
-27,CIF61101,Rekayasa Perangkat Lunak - G,Agi Putra Kharisma,4,-,kamis,16:00:00,17:40:00,F3.15,40,40,99
-69,CIF63207,Jaringan Komputer - G,Achmad Basuki,5,-,kamis,16:00:00,17:40:00,F4.13,40,40,1
-44,CIF61302,Statistika dan Teori Peluang - C,Marji,2,-,jumat,07:00:00,08:40:00,F2.6,40,40,1
-56,CIF63106,Analisis dan Perancangan Sistem - A,Nurudin Santoso,5,-,jumat,07:00:00,09:30:00,F3.10,40,40,1
-110,CIF65115,Pemrograman Aplikasi Perangkat Bergerak - F,Adam Hendra Brata,3,-,jumat,07:00:00,09:30:00,F3.11,40,40,1
-65,CIF63207,Jaringan Komputer - C,Eko Sakti Pramukantoro,5,-,jumat,07:00:00,09:30:00,F3.15,40,40,1
-150,CIF61347,Penerapan Kecerdasan Artifisial - A,Budi Darma Setiawan,3,-,jumat,07:00:00,08:40:00,F4.14,40,40,1
-111,CIF65115,Pemrograman Aplikasi Perangkat Bergerak - G,Agi Putra Kharisma,3,-,jumat,08:45:00,11:15:00,F3.16,40,40,99
-39,MPK60001-5,Agama - E,Unknown Dosen,2,-,jumat,08:45:00,10:25:00,F3.5,40,40,99
-52,COM60004,Algoritma dan Struktur Data - D,Agus Wahyu Widodo,3,-,jumat,08:45:00,10:25:00,F4.10,40,40,99
-83,CIF63309,Metode Numerik - G,Achmad Ridok,3,-,jumat,08:45:00,10:25:00,F4.5,40,40,1
-131,CIF65318,Jaringan Saraf Tiruan - F,Budi Darma Setiawan,3,-,jumat,08:45:00,10:25:00,F4.6,40,40,1
-14,COM60011,Arsitektur dan Organisasi Komputer - A,Dany Primanita Kartikasari,2,-,jumat,09:35:00,11:20:00,F3.13,40,40,1
-42,CIF61302,Statistika dan Teori Peluang - A,Sigit Adinugroho,2,-,jumat,09:35:00,12:05:00,F4.2,40,40,99
-28,COM60025,Kalkulus - A,Achmad Arwan,2,-,jumat,10:30:00,12:10:00,F4.12,40,40,99
-2,COM60016,Pengenalan Keilmuan Komputer - C,Tri Astoto Kurniawan,2,-,jumat,12:30:00,15:00:00,F2.6,40,40,99
-63,CIF63207,Jaringan Komputer - A,Reza Andria Siregar,5,-,jumat,12:30:00,15:00:00,F3.16,40,40,1
-21,CIF61101,Rekayasa Perangkat Lunak - A,Bayu Priyambadha,4,-,jumat,12:30:00,14:10:00,F4.8,40,40,1
-98,MPK60007,Bahasa Indonesia - A,Unknown Dosen,2,-,jumat,14:15:00,15:55:00,F2.4,40,40,99
-75,CIF63108,Interaksi Manusia dan Komputer - F,Herman Tolle,2,-,jumat,14:15:00,15:55:00,F3.10,40,40,1
-143,CIF60038,DevSecOps - A,Eko Sakti Pramukantoro,4,-,jumat,14:15:00,15:55:00,F3.5,40,40,1
-64,CIF63207,Jaringan Komputer - B,Achmad Basuki,5,-,jumat,14:15:00,15:55:00,F4.2,40,40,1
-145,CIF61230,Jaringan komputer lanjut - A,Widhi Yahya,3,-,jumat,14:30:00,16:10:00,F3.15,40,40,1
-26,CIF61101,Rekayasa Perangkat Lunak - F,Adam Hendra Brata,4,-,jumat,15:20:00,17:00:00,F3.3,40,40,1
-72,CIF63108,Interaksi Manusia dan Komputer - C,Lutfi Fanani,2,-,jumat,15:20:00,17:50:00,F4.10,40,40,1
-15,COM60011,Arsitektur dan Organisasi Komputer - B,Heru Nurwarsito,2,-,jumat,15:20:00,17:00:00,F4.3,40,40,99
-97,COM60051,Metodologi Penelitian & Penulisan Ilmiah - G,"Prof. Dr. Ir. LAILIL MUFLIKHAH, S.Kom., M.Sc.",3,-,jumat,15:20:00,17:50:00,F4.4,40,40,99
-10,COM60014,Pemrograman Dasar - D,Putra Pandu Adikara,5,-,jumat,15:20:00,17:00:00,F4.8,40,40,99
-9,COM60014,Pemrograman Dasar - C,Mahendra Data,5,-,jumat,15:20:00,17:00:00,F4.9,40,40,99
-134,CIF65319,Statistika inferensi - B,Sigit Adinugroho,2,-,jumat,16:00:00,17:40:00,F2.1,40,40,99
-152,CIF61121,Pola Perancangan - A,Bayu Priyambadha,3,-,jumat,16:00:00,17:40:00,F3.6,40,40,1
+ID Kelas,Kode MK,Mata Kuliah,SKS,Kelas,Dosen,Hari,Jam Mulai,Jam Selesai,Ruangan,Prioritas Dosen
+167,COM60051,Metodologi Penelitian & Penulisan Ilmiah,3,G,Arief Andy Soebroto,senin,07:00:00,08:40:00,F2.2,1
+66,COM60016,Pengenalan Keilmuan Komputer,2,C,Achmad Basuki,senin,07:00:00,09:30:00,F3.3,1
+160,CIF63309,Metode Numerik,3,F,Agung Setia Budi,senin,07:00:00,08:40:00,F4.11,1
+2,CIF65115,Pemrograman Aplikasi Perangkat Bergerak,3,A,Nur Hazbiy Shaffan,senin,07:00:00,08:40:00,F4.13,1
+119,CIF63106,Analisis dan Perancangan Sistem (Sesi 1),3,C,Eko Sakti Pramukantoro,senin,07:00:00,09:30:00,F4.14,1
+108,COM60014,Pemrograman Dasar (Sesi 2),2,E,Achmad Ridok,senin,07:00:00,09:30:00,F4.5,1
+44,CIF61101,Rekayasa Perangkat Lunak (Sesi 1),2,F,Komang Candra Brata,senin,07:00:00,09:30:00,F4.6,1
+155,COM60025,Kalkulus,2,D,Wijaya Kurniawan,senin,08:45:00,10:25:00,F2.2,1
+123,COM60051,Metodologi Penelitian & Penulisan Ilmiah,3,C,Arief Andy Soebroto,senin,08:45:00,10:25:00,F2.9,1
+103,CIF65319,Statistika inferensi,2,F,Marji,senin,08:45:00,11:15:00,F3.6,1
+86,CIF65115,Pemrograman Aplikasi Perangkat Bergerak,3,D,Adam Hendra Brata,senin,08:45:00,10:25:00,F4.3,1
+26,CIF65116,Komputer Grafis,2,E,Herman Tolle,senin,09:35:00,12:05:00,F2.8,1
+90,COM60025,Kalkulus,2,E,Edy Santoso,senin,09:35:00,11:20:00,F3.1,1
+27,CIF65115,Pemrograman Aplikasi Perangkat Bergerak,3,C,Nur Hazbiy Shaffan,senin,09:35:00,12:05:00,F3.14,1
+94,CIF65115,Pemrograman Aplikasi Perangkat Bergerak,3,B,Nur Hazbiy Shaffan,senin,09:35:00,12:05:00,F3.9,1
+147,CIF63106,Analisis dan Perancangan Sistem (Sesi 1),3,G,Komang Candra Brata,senin,09:35:00,12:05:00,F4.4,1
+17,CIF65318,Jaringan Saraf Tiruan,3,C,Randy Cahya Wihandika,senin,09:35:00,11:20:00,F4.6,1
+99,CIF63207,Jaringan Komputer (Sesi 1),3,D,Primantara Hari Trisnawan,senin,09:35:00,12:05:00,F4.8,1
+131,COM60014,Pemrograman Dasar (Sesi 1),3,F,Bayu Priyambadha,senin,10:30:00,12:10:00,F2.2,2
+14,CIF63207,Jaringan Komputer (Sesi 2),2,C,Achmad Basuki,senin,10:30:00,12:10:00,F3.13,1
+18,COM60004,Algoritma dan Struktur Data,3,A,Agung Setia Budi,senin,12:30:00,15:00:00,F2.1,1
+121,CIF65318,Jaringan Saraf Tiruan,3,B,Wayan Firdaus Mahmudy,senin,12:30:00,14:10:00,F2.2,1
+77,CIF61302,Statistika dan Teori Peluang,2,C,Wijaya Kurniawan,senin,12:30:00,14:10:00,F3.1,1
+33,CIF63207,Jaringan Komputer (Sesi 1),3,A,Reza Andria Siregar,senin,14:15:00,15:55:00,F3.4,1
+22,CIF61346,Deep Learning,3,A,Eko Sakti Pramukantoro,senin,14:30:00,16:10:00,F2.2,1
+139,CIF61101,Rekayasa Perangkat Lunak (Sesi 2),2,C,Bayu Priyambadha,senin,15:20:00,17:00:00,F2.4,1
+60,CIF63207,Jaringan Komputer (Sesi 1),3,G,Sabriansyah Rizqika Akbar,senin,15:20:00,17:00:00,F2.6,1
+153,CIF63106,Analisis dan Perancangan Sistem (Sesi 1),3,A,Denny Sagita Rusdianto,senin,15:20:00,17:50:00,F3.11,1
+52,CIF63108,Interaksi Manusia dan Komputer,2,E,Lutfi Fanani,senin,15:20:00,17:00:00,F3.5,1
+69,CIF63110,Kecerdasan Artifisial,2,A,Rizal Setya Perdana,senin,15:20:00,17:50:00,F4.1,1
+112,CIF63110,Kecerdasan Artifisial,2,F,Wayan Firdaus Mahmudy,senin,15:20:00,17:50:00,F4.5,1
+97,CIF63108,Interaksi Manusia dan Komputer,2,G,Ratih Kartika Dewi,senin,16:00:00,17:40:00,F3.10,1
+19,COM60014,Pemrograman Dasar (Sesi 1),3,D,Randy Cahya Wihandika,senin,16:00:00,17:40:00,F4.8,1
+109,CIF61302,Statistika dan Teori Peluang,2,D,Wijaya Kurniawan,selasa,07:00:00,09:30:00,F2.6,1
+36,COM60014,Pemrograman Dasar (Sesi 2),2,G,Nur Hazbiy Shaffan,selasa,07:00:00,08:40:00,F2.8,1
+133,CIF63207,Jaringan Komputer (Sesi 1),3,F,Sabriansyah Rizqika Akbar,selasa,07:00:00,09:30:00,F3.2,1
+107,COM60014,Pemrograman Dasar (Sesi 1),3,E,Achmad Ridok,selasa,07:00:00,08:40:00,F3.3,1
+49,CIF63309,Metode Numerik,3,B,Agung Setia Budi,selasa,07:00:00,09:30:00,F4.1,1
+5,CIF63108,Interaksi Manusia dan Komputer,2,A,Ratih Kartika Dewi,selasa,07:00:00,09:30:00,F4.3,1
+88,CIF61101,Rekayasa Perangkat Lunak (Sesi 2),2,E,Bayu Priyambadha,selasa,07:00:00,09:30:00,F4.5,1
+13,CIF63207,Jaringan Komputer (Sesi 1),3,C,Achmad Basuki,selasa,07:00:00,09:30:00,F4.6,1
+4,CIF61101,Rekayasa Perangkat Lunak (Sesi 2),2,A,Nurudin Santoso,selasa,07:00:00,08:40:00,F4.7,1
+101,COM60051,Metodologi Penelitian & Penulisan Ilmiah,3,E,Fitra Abdurrachman Bachtiar,selasa,07:00:00,08:40:00,F4.9,1
+141,CIF60038,DevSecOps (Sesi 1),2,A,Widhi Yahya,selasa,08:45:00,10:25:00,F3.11,1
+124,CIF63110,Kecerdasan Artifisial,2,E,Arief Andy Soebroto,selasa,08:45:00,10:25:00,F3.9,1
+51,CIF61347,Penerapan Kecerdasan Artifisial,3,A,Fitra Abdurrachman Bachtiar,selasa,08:45:00,10:25:00,F4.10,1
+102,COM60025,Kalkulus,2,G,Edy Santoso,selasa,08:45:00,10:25:00,F4.12,1
+35,COM60014,Pemrograman Dasar (Sesi 1),3,G,Muh. Arif Rahman,selasa,09:35:00,11:20:00,F3.6,2
+61,CIF63207,Jaringan Komputer (Sesi 2),2,G,Sabriansyah Rizqika Akbar,selasa,09:35:00,11:20:00,F4.11,1
+10,CIF65318,Jaringan Saraf Tiruan,3,F,Budi Darma Setiawan,selasa,09:35:00,11:20:00,F4.5,1
+43,COM60014,Pemrograman Dasar (Sesi 2),2,A,Adam Hendra Brata,selasa,09:35:00,11:20:00,F4.6,1
+93,CIF63106,Analisis dan Perancangan Sistem (Sesi 2),2,E,Denny Sagita Rusdianto,selasa,10:30:00,12:10:00,F3.1,1
+79,COM60025,Kalkulus,2,A,Edy Santoso,selasa,10:30:00,12:10:00,F3.11,1
+144,CIF61101,Rekayasa Perangkat Lunak (Sesi 1),2,G,Nurudin Santoso,selasa,10:30:00,12:10:00,F4.1,1
+9,CIF63108,Interaksi Manusia dan Komputer,2,D,Lutfi Fanani,selasa,10:30:00,12:10:00,F4.8,1
+142,CIF60038,DevSecOps (Sesi 2),2,A,Widhi Yahya,selasa,12:30:00,14:10:00,F2.6,1
+70,COM60051,Metodologi Penelitian & Penulisan Ilmiah,3,D,Arief Andy Soebroto,selasa,12:30:00,15:00:00,F3.1,1
+72,CIF63106,Analisis dan Perancangan Sistem (Sesi 1),3,D,Lutfi Fanani,selasa,12:30:00,15:00:00,F3.16,1
+76,CIF60048,Machine Learning Operations (MLOps) (Sesi 2),2,A,Sigit Adinugroho,selasa,12:30:00,15:00:00,F3.5,1
+21,COM60051,Metodologi Penelitian & Penulisan Ilmiah,3,A,Achmad Basuki,selasa,12:30:00,14:10:00,F4.12,1
+171,CIF63207,Jaringan Komputer (Sesi 1),3,E,Reza Andria Siregar,selasa,14:15:00,15:55:00,F4.10,1
+15,COM60004,Algoritma dan Struktur Data,3,F,Achmad Ridok,selasa,15:20:00,17:00:00,F2.2,1
+120,CIF63106,Analisis dan Perancangan Sistem (Sesi 2),2,C,Nurudin Santoso,selasa,15:20:00,17:50:00,F2.4,1
+46,CIF65319,Statistika inferensi,2,A,Marji,selasa,15:20:00,17:00:00,F3.13,1
+105,CIF65318,Jaringan Saraf Tiruan,3,E,Wayan Firdaus Mahmudy,selasa,15:20:00,17:00:00,F3.3,1
+37,CIF63106,Analisis dan Perancangan Sistem (Sesi 1),3,B,Denny Sagita Rusdianto,selasa,15:20:00,17:00:00,F3.8,1
+164,CIF61230,Jaringan komputer lanjut,3,A,Widhi Yahya,selasa,15:20:00,17:50:00,F4.4,1
+98,COM60004,Algoritma dan Struktur Data,3,D,Fitra Abdurrachman Bachtiar,selasa,15:20:00,17:50:00,F4.5,1
+140,COM60016,Pengenalan Keilmuan Komputer,2,D,Ratih Kartika Dewi,selasa,16:00:00,17:40:00,F3.11,1
+87,CIF61101,Rekayasa Perangkat Lunak (Sesi 1),2,E,Bayu Priyambadha,selasa,16:00:00,17:40:00,F3.12,1
+116,COM60011,Arsitektur dan Organisasi Komputer,2,E,Barlian Henryranu Prasetio,selasa,16:00:00,17:40:00,F4.10,1
+92,CIF63106,Analisis dan Perancangan Sistem (Sesi 1),3,E,Lutfi Fanani,rabu,07:00:00,08:40:00,F2.8,1
+91,COM60016,Pengenalan Keilmuan Komputer,2,B,Ratih Kartika Dewi,rabu,07:00:00,09:30:00,F3.10,1
+8,CIF61302,Statistika dan Teori Peluang,2,F,Wijaya Kurniawan,rabu,07:00:00,08:40:00,F3.14,1
+45,CIF61101,Rekayasa Perangkat Lunak (Sesi 2),2,F,Denny Sagita Rusdianto,rabu,07:00:00,09:30:00,F3.4,1
+170,COM60016,Pengenalan Keilmuan Komputer,2,F,Sabriansyah Rizqika Akbar,rabu,08:45:00,10:25:00,F4.13,1
+80,COM60004,Algoritma dan Struktur Data,3,B,Budi Darma Setiawan,rabu,09:35:00,11:20:00,F3.12,1
+56,CIF65319,Statistika inferensi,2,D,Marji,rabu,09:35:00,11:20:00,F3.5,1
+157,COM60014,Pemrograman Dasar (Sesi 2),2,C,Dany Primanita Kartikasari,rabu,09:35:00,11:20:00,F3.8,1
+138,CIF61101,Rekayasa Perangkat Lunak (Sesi 1),2,C,Nurudin Santoso,rabu,09:35:00,12:05:00,F4.2,1
+137,COM60025,Kalkulus,2,B,Edy Santoso,rabu,09:35:00,12:05:00,F4.3,1
+38,CIF63106,Analisis dan Perancangan Sistem (Sesi 2),2,B,Denny Sagita Rusdianto,rabu,09:35:00,11:20:00,F4.5,1
+75,CIF60048,Machine Learning Operations (MLOps) (Sesi 1),2,A,Sigit Adinugroho,rabu,09:35:00,12:05:00,F4.8,1
+110,COM60025,Kalkulus,2,C,Muh. Arif Rahman,rabu,10:30:00,12:10:00,F2.5,1
+104,COM60016,Pengenalan Keilmuan Komputer,2,A,Ratih Kartika Dewi,rabu,10:30:00,12:10:00,F3.1,1
+78,CIF61341,Pemrosesan Bahasa Alami,3,A,Rizal Setya Perdana,rabu,10:30:00,12:10:00,F3.4,1
+54,CIF65116,Komputer Grafis,2,B,Herman Tolle,rabu,10:30:00,12:10:00,F4.13,1
+125,CIF65116,Komputer Grafis,2,G,Herman Tolle,rabu,12:30:00,15:00:00,F2.2,1
+84,CIF61124,Arsitektur Berbasis Layanan (Sesi 1),2,A,Adam Hendra Brata,rabu,12:30:00,15:00:00,F2.4,1
+151,CIF65319,Statistika inferensi,2,B,Marji,rabu,12:30:00,14:10:00,F2.5,1
+62,CIF63110,Kecerdasan Artifisial,2,B,Wayan Firdaus Mahmudy,rabu,12:30:00,14:10:00,F2.6,1
+146,COM60011,Arsitektur dan Organisasi Komputer,2,A,Barlian Henryranu Prasetio,rabu,12:30:00,14:10:00,F3.6,1
+34,CIF63207,Jaringan Komputer (Sesi 2),2,A,Primantara Hari Trisnawan,rabu,12:30:00,15:00:00,F3.9,1
+159,CIF61101,Rekayasa Perangkat Lunak (Sesi 2),2,D,Nur Hazbiy Shaffan,rabu,12:30:00,14:10:00,F4.10,1
+53,CIF63108,Interaksi Manusia dan Komputer,2,B,Lutfi Fanani,rabu,12:30:00,15:00:00,F4.13,1
+96,COM60025,Kalkulus,2,F,Muh. Arif Rahman,rabu,12:30:00,14:10:00,F4.2,1
+3,CIF61101,Rekayasa Perangkat Lunak (Sesi 1),2,A,Nurudin Santoso,rabu,14:15:00,15:55:00,F3.14,1
+106,COM60016,Pengenalan Keilmuan Komputer,2,G,Arief Andy Soebroto,rabu,14:15:00,15:55:00,F4.12,1
+143,COM60011,Arsitektur dan Organisasi Komputer,2,G,Barlian Henryranu Prasetio,rabu,14:30:00,16:10:00,F4.3,1
+128,CIF65319,Statistika inferensi,2,C,Marji,rabu,15:20:00,17:00:00,F3.11,1
+57,CIF61339,Pengolahan Citra Digital dan Visi Komputer (Sesi 1),2,A,Randy Cahya Wihandika,rabu,15:20:00,17:50:00,F3.2,1
+85,CIF61124,Arsitektur Berbasis Layanan (Sesi 2),2,A,Adam Hendra Brata,rabu,15:20:00,17:50:00,F3.3,1
+0,CIF61233,Administrasi sistem server,3,A,Sabriansyah Rizqika Akbar,rabu,15:20:00,17:50:00,F3.4,1
+59,CIF63309,Metode Numerik,3,D,Muh. Arif Rahman,rabu,15:20:00,17:50:00,F3.6,1
+7,CIF65116,Komputer Grafis,2,A,Herman Tolle,rabu,15:20:00,17:50:00,F4.10,1
+172,CIF63207,Jaringan Komputer (Sesi 2),2,E,Reza Andria Siregar,rabu,16:00:00,17:40:00,F2.6,1
+30,CIF65115,Pemrograman Aplikasi Perangkat Bergerak,3,G,Eko Sakti Pramukantoro,rabu,16:00:00,17:40:00,F3.10,1
+20,COM60014,Pemrograman Dasar (Sesi 2),2,D,Randy Cahya Wihandika,kamis,07:00:00,08:40:00,F2.6,1
+81,CIF65319,Statistika inferensi,2,G,Marji,kamis,07:00:00,09:30:00,F3.10,1
+162,CIF63108,Interaksi Manusia dan Komputer,2,C,Ratih Kartika Dewi,kamis,07:00:00,08:40:00,F3.15,1
+113,COM60004,Algoritma dan Struktur Data,3,G,Edy Santoso,kamis,07:00:00,09:30:00,F3.16,1
+42,COM60014,Pemrograman Dasar (Sesi 1),3,A,Achmad Ridok,kamis,07:00:00,08:40:00,F4.12,1
+127,CIF63110,Kecerdasan Artifisial,2,G,Arief Andy Soebroto,kamis,08:45:00,11:15:00,F2.1,1
+47,CIF61302,Statistika dan Teori Peluang,2,G,Wijaya Kurniawan,kamis,08:45:00,11:15:00,F4.11,1
+154,CIF63106,Analisis dan Perancangan Sistem (Sesi 2),2,A,Denny Sagita Rusdianto,kamis,08:45:00,10:25:00,F4.14,1
+71,COM60011,Arsitektur dan Organisasi Komputer,2,B,Dany Primanita Kartikasari,kamis,08:45:00,11:15:00,F4.5,1
+114,CIF61302,Statistika dan Teori Peluang,2,A,Achmad Basuki,kamis,08:45:00,11:15:00,F4.8,2
+115,COM60016,Pengenalan Keilmuan Komputer,2,E,Edy Santoso,kamis,09:35:00,12:05:00,F2.4,1
+58,CIF61339,Pengolahan Citra Digital dan Visi Komputer (Sesi 2),2,A,Randy Cahya Wihandika,kamis,09:35:00,12:05:00,F2.5,1
+50,CIF65217,Jaringan Nirkabel,3,G,Primantara Hari Trisnawan,kamis,09:35:00,12:05:00,F2.9,1
+132,COM60014,Pemrograman Dasar (Sesi 2),2,F,Bayu Priyambadha,kamis,09:35:00,12:05:00,F3.1,2
+16,CIF65217,Jaringan Nirkabel,3,A,Dany Primanita Kartikasari,kamis,12:30:00,15:00:00,F2.1,1
+64,CIF61125,Pemrograman Gim (Sesi 2),2,A,Agi Putra Kharisma,kamis,12:30:00,15:00:00,F3.13,2
+169,CIF63207,Jaringan Komputer (Sesi 2),2,B,Reza Andria Siregar,kamis,12:30:00,15:00:00,F3.8,1
+158,CIF61101,Rekayasa Perangkat Lunak (Sesi 1),2,D,Nurudin Santoso,kamis,12:30:00,15:00:00,F4.1,1
+117,COM60011,Arsitektur dan Organisasi Komputer,2,F,Rakhmadhany Primananda,kamis,14:15:00,15:55:00,F3.15,1
+28,CIF63108,Interaksi Manusia dan Komputer,2,F,Lutfi Fanani,kamis,14:15:00,15:55:00,F3.7,1
+74,COM60004,Algoritma dan Struktur Data,3,E,Achmad Ridok,kamis,15:20:00,17:00:00,F2.6,1
+111,COM60004,Algoritma dan Struktur Data,3,C,Budi Darma Setiawan,kamis,15:20:00,17:00:00,F3.1,1
+100,CIF63207,Jaringan Komputer (Sesi 2),2,D,Primantara Hari Trisnawan,kamis,15:20:00,17:00:00,F4.10,1
+32,CIF65319,Statistika inferensi,2,E,Marji,kamis,15:20:00,17:50:00,F4.7,1
+135,CIF65115,Pemrograman Aplikasi Perangkat Bergerak,3,F,Komang Candra Brata,kamis,16:00:00,17:40:00,F3.11,1
+39,CIF63309,Metode Numerik,3,C,Agung Setia Budi,kamis,16:00:00,17:40:00,F3.14,1
+130,CIF65318,Jaringan Saraf Tiruan,3,G,Wayan Firdaus Mahmudy,kamis,16:00:00,17:40:00,F3.16,1
+1,CIF65116,Komputer Grafis,2,C,Herman Tolle,kamis,16:00:00,17:40:00,F3.2,1
+145,CIF61101,Rekayasa Perangkat Lunak (Sesi 2),2,G,Nur Hazbiy Shaffan,kamis,16:00:00,17:40:00,F3.5,1
+23,CIF65318,Jaringan Saraf Tiruan,3,A,Fitra Abdurrachman Bachtiar,kamis,16:00:00,17:40:00,F4.5,1
+166,CIF65318,Jaringan Saraf Tiruan,3,D,Budi Darma Setiawan,jumat,07:00:00,09:30:00,F2.9,1
+136,COM60051,Metodologi Penelitian & Penulisan Ilmiah,3,F,Widhi Yahya,jumat,07:00:00,09:30:00,F3.7,1
+134,CIF63207,Jaringan Komputer (Sesi 2),2,F,Sabriansyah Rizqika Akbar,jumat,07:00:00,09:30:00,F3.9,1
+149,CIF61101,Rekayasa Perangkat Lunak (Sesi 1),2,B,Bayu Priyambadha,jumat,07:00:00,09:30:00,F4.4,1
+41,CIF65116,Komputer Grafis,2,F,Herman Tolle,jumat,07:00:00,09:30:00,F4.5,1
+89,CIF65217,Jaringan Nirkabel,3,D,Dany Primanita Kartikasari,jumat,08:45:00,11:15:00,F3.10,1
+95,CIF63309,Metode Numerik,3,E,Muh. Arif Rahman,jumat,08:45:00,10:25:00,F4.8,1
+12,COM60014,Pemrograman Dasar (Sesi 2),2,B,Budi Darma Setiawan,jumat,09:35:00,11:20:00,F2.1,1
+67,CIF63110,Kecerdasan Artifisial,2,D,Rizal Setya Perdana,jumat,09:35:00,11:20:00,F2.6,1
+31,CIF61302,Statistika dan Teori Peluang,2,B,Ratih Kartika Dewi,jumat,09:35:00,12:05:00,F2.8,1
+152,CIF65217,Jaringan Nirkabel,3,E,Achmad Basuki,jumat,09:35:00,12:05:00,F2.9,2
+83,CIF65115,Pemrograman Aplikasi Perangkat Bergerak,3,E,Komang Candra Brata,jumat,09:35:00,11:20:00,F3.16,1
+122,CIF65217,Jaringan Nirkabel,3,B,Primantara Hari Trisnawan,jumat,09:35:00,12:05:00,F4.1,1
+82,COM60051,Metodologi Penelitian & Penulisan Ilmiah,3,B,Fitra Abdurrachman Bachtiar,jumat,09:35:00,12:05:00,F4.11,1
+55,CIF61302,Statistika dan Teori Peluang,2,E,Wijaya Kurniawan,jumat,09:35:00,12:05:00,F4.3,1
+11,COM60014,Pemrograman Dasar (Sesi 1),3,B,Randy Cahya Wihandika,jumat,09:35:00,11:20:00,F4.6,1
+118,CIF65116,Komputer Grafis,2,D,Herman Tolle,jumat,10:30:00,12:10:00,F3.12,1
+73,CIF63106,Analisis dan Perancangan Sistem (Sesi 2),2,D,Komang Candra Brata,jumat,12:30:00,14:10:00,F3.1,1
+29,CIF61235,Forensik Digital,3,A,Eko Sakti Pramukantoro,jumat,12:30:00,15:00:00,F3.13,1
+163,CIF61126,Realitas terkembang,3,A,Adam Hendra Brata,jumat,12:30:00,15:00:00,F3.2,1
+25,CIF63106,Analisis dan Perancangan Sistem (Sesi 2),2,F,Denny Sagita Rusdianto,jumat,12:30:00,15:00:00,F3.3,1
+165,COM60011,Arsitektur dan Organisasi Komputer,2,D,Barlian Henryranu Prasetio,jumat,12:30:00,15:00:00,F3.5,1
+40,CIF65217,Jaringan Nirkabel,3,F,Widhi Yahya,jumat,12:30:00,14:10:00,F4.10,1
+126,CIF63110,Kecerdasan Artifisial,2,C,Rizal Setya Perdana,jumat,12:30:00,14:10:00,F4.12,1
+156,COM60014,Pemrograman Dasar (Sesi 1),3,C,Dany Primanita Kartikasari,jumat,12:30:00,14:10:00,F4.13,1
+24,CIF63106,Analisis dan Perancangan Sistem (Sesi 1),3,F,Nurudin Santoso,jumat,14:15:00,15:55:00,F3.4,1
+48,COM60011,Arsitektur dan Organisasi Komputer,2,C,Wijaya Kurniawan,jumat,14:30:00,16:10:00,F2.9,1
+150,CIF61101,Rekayasa Perangkat Lunak (Sesi 2),2,B,Bayu Priyambadha,jumat,14:30:00,16:10:00,F3.1,1
+148,CIF63106,Analisis dan Perancangan Sistem (Sesi 2),2,G,Komang Candra Brata,jumat,14:30:00,16:10:00,F4.13,1
+168,CIF63207,Jaringan Komputer (Sesi 1),3,B,Reza Andria Siregar,jumat,15:20:00,17:50:00,F3.12,1
+63,CIF61125,Pemrograman Gim (Sesi 1),2,A,Agi Putra Kharisma,jumat,15:20:00,17:50:00,F3.8,2
+65,CIF63309,Metode Numerik,3,A,Agung Setia Budi,jumat,15:20:00,17:50:00,F4.10,1
+161,CIF61121,Pola Perancangan,3,A,Adam Hendra Brata,jumat,15:20:00,17:50:00,F4.14,1
+68,CIF61236,Keamanan Jaringan,3,A,Primantara Hari Trisnawan,jumat,16:00:00,17:40:00,F3.7,1
+6,CIF65217,Jaringan Nirkabel,3,C,Eko Sakti Pramukantoro,jumat,16:00:00,17:40:00,F4.2,1
+129,CIF63309,Metode Numerik,3,G,Muh. Arif Rahman,jumat,16:00:00,17:40:00,F4.8,1

@@ -1,18 +1,11 @@
 import random
 import copy
-from ga_core.individual import Individual
 
 # ============================
 # 1. SELEKSI (TOURNAMENT)
 # ============================
 def tournament_selection(population, k=3):
-    """
-    Memilih 1 orang tua terbaik dari 'k' kandidat acak.
-    """
-    # Ambil k individu secara acak
     candidates = random.sample(population, k)
-    
-    # Cari yang fitness-nya paling tinggi (terbaik)
     best = max(candidates, key=lambda ind: ind.fitness)
     return best
 
@@ -20,60 +13,54 @@ def tournament_selection(population, k=3):
 # 2. CROSSOVER (KAWIN SILANG)
 # ============================
 def crossover(parent1, parent2, crossover_rate=0.8):
-    """
-    Menggabungkan gen dari 2 orang tua.
-    Metode: Uniform Crossover (Tiap MK dilempar koin, ikut P1 atau P2).
-    """
-    # Cek peluang, jika tidak kejadian, kembalikan copy orang tua (kloning)
     if random.random() > crossover_rate:
         return copy.deepcopy(parent1), copy.deepcopy(parent2)
 
-    # Siapkan anak
     child1 = copy.deepcopy(parent1)
     child2 = copy.deepcopy(parent2)
     
-    # Tukar gen per mata kuliah
-    # Ingat: chromosome adalah list of dicts. Panjangnya sama.
     num_genes = len(parent1.chromosome)
-    
     for i in range(num_genes):
-        # 50% peluang tukar gen
         if random.random() < 0.5:
-            # Swap gen i antara anak 1 dan anak 2
             child1.chromosome[i], child2.chromosome[i] = child2.chromosome[i], child1.chromosome[i]
             
-    # Reset fitness karena kromosom berubah (harus dihitung ulang nanti)
+    # Reset
     child1.fitness = 0.0
     child1.conflicts = []
     child2.fitness = 0.0
     child2.conflicts = []
-    
     return child1, child2
 
 # ============================
-# 3. MUTATION (MUTASI)
+# 3. MUTATION (BACK TO BASIC + RANDOM SWAP)
 # ============================
-def mutation(individual, all_slots, all_rooms, mutation_rate=0.1):
+def mutation(individual, all_slots, all_rooms, candidates, pref_info, mutation_rate=0.1):
     """
-    Mengubah gen secara acak dengan peluang kecil.
-    Tujuannya agar GA tidak 'macet' di solusi yang itu-itu saja.
+    Mutasi Random untuk eksplorasi.
+    Urusan Balancing dan Repair diserahkan ke Local Search (Memetic).
     """
-    # Loop setiap gen (setiap mata kuliah)
     for gene in individual.chromosome:
         if random.random() < mutation_rate:
-            # Lakukan Mutasi!
-            # Kita ganti Slot Waktu ATAU Ruangan (atau keduanya)
             
-            # 50% peluang ganti Slot
-            if random.random() < 0.5:
-                new_slot = random.choice(all_slots)
-                gene['slot_id'] = new_slot['slot_id']
-                
-            # 50% peluang ganti Ruang
+            choice = random.random()
+            
+            if choice < 0.4:
+                # Ganti Slot
+                gene['slot_id'] = random.choice(all_slots)['slot_id']
+            elif choice < 0.8:
+                # Ganti Ruang
+                gene['room_id'] = random.choice(all_rooms)['room_id']
             else:
-                new_room = random.choice(all_rooms)
-                gene['room_id'] = new_room['room_id']
-    
-    # Reset fitness karena ada perubahan
+                # Ganti Dosen (Random Swap saja, bukan Robin Hood)
+                # Biar LocalSearch yang urus balancing yang aman
+                kode_mk = gene['kode_mk']
+                possible = candidates.get(kode_mk, [])
+                if len(possible) > 1:
+                    new_dosen = random.choice(possible)
+                    gene['dosen'] = new_dosen
+                    info = pref_info.get((new_dosen, kode_mk), {'prioritas': 99})
+                    gene['dosen_priority'] = info['prioritas']
+
+    # Reset fitness
     individual.fitness = 0.0
     individual.conflicts = []
